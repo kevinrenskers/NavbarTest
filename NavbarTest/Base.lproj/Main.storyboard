@@ -95,10 +95,10 @@
             </objects>
             <point key="canvasLocation" x="2503" y="139"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Color Transition Navigation Controller-->
         <scene sceneID="AYJ-f9-Jwj">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="gMV-W7-3wn" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="gMV-W7-3wn" customClass="ColorTransitionNavigationController" customModule="NavbarTest" customModuleProvider="target" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="JOc-zt-Cob">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
